@@ -1,13 +1,8 @@
-##Project: My Travel Plans
+# Travel Destinations
 
-This project lists the places I want to travel to. 
-
-**Installation Requirements**
-
-
-**Usage**
+A simple app to keep track of destinations I'd like to visit.
 
 
 **License**
 
-Demetra Sklaviadis, Aug 2017
+Demetra Sklaviadis, Sep 2017
